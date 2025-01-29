@@ -1,6 +1,6 @@
 #include<stdio>
 int main(){
-    u = 3;
-    printf("%f",u);
+    float = 3;
+    printf("%f");
     return 0;
 }
