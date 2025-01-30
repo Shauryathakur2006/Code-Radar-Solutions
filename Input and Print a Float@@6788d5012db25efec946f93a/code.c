@@ -1,7 +1,8 @@
 #include<stdio.h>
+
 int main(){
-    u = 3;
-    sacnf("$u")
-    printf("%f",u);
+    float a = 3.33;
+    printf("%f",a);
+
     return 0;
 }
