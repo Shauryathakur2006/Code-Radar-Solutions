@@ -2,8 +2,9 @@
 
 int main(){
     float a = 3.14;
-    scanf("%f",&a)
-    printf("%f",a);
+    float b = 9.32
+    scanf("%f",&a,b)
+    printf("%f",a,b);
 
     return 0;
 }
