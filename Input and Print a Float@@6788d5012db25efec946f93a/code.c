@@ -1,10 +1,6 @@
 #include<stdio.h>
-
 int main(){
-    float a = 3.14;
-    float b = 9.32
-    scanf("%f",&a,b)
-    printf("%f",a,b);
-
+    float a = 2.44
+    printf("%f",a);
     return 0;
 }
