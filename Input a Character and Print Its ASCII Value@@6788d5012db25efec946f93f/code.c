@@ -1,18 +1,11 @@
 #include<stdio.h>
 int mian(){
-    char c,
-    scanf("%c",&c);
-    printf("ASCII Value: %d",c);
+    char b,
+    scanf("%c",&b);
+    printf("ASCII Value: %d",b);
 
 }
 
 
 
 
-#include<stdio.h>
-int main(){
-    char c;
-    scanf("%c",&c);
-    printf("ASCII Value: %d",c);
-    return 0;
-}
