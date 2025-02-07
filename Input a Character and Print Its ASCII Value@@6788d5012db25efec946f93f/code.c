@@ -1,7 +1,10 @@
 #include<stdio.h>
-int main(){
-    char c;
-    scanf("%c",&c);
-    printf("ASCII Value: %d",c);
-    return 0;
+int mian(){
+    char a,
+    scanf("%c",&a);
+    printf("ASCII Value: %c ",a);
+
 }
+
+
+
