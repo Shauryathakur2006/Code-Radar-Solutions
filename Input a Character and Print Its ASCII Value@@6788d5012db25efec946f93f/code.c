@@ -1,8 +1,8 @@
 #include<stdio.h>
 int mian(){
-    char a,
-    scanf("%c",&a);
-    printf("ASCII Value: %d ",a);
+    char c,
+    scanf("%c",&c);
+    printf("ASCII Value: %d ",c);
 
 }
 
