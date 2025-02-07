@@ -1,5 +1,5 @@
 #include<stdio.h>
-int mian(){
+int main(){
     char b;
     scanf("%c",&b);
     printf("ASCII Value: %d",b);
