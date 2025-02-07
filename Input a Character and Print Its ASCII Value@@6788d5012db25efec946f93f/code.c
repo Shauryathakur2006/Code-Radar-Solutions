@@ -1,6 +1,6 @@
 #include<stdio.h>
 int mian(){
-    char b,
+    char b;
     scanf("%c",&b);
     printf("ASCII Value: %d",b);
     return 0;
