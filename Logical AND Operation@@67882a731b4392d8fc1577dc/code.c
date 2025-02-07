@@ -4,9 +4,8 @@ int main(){
     scanf("%d %d",&a,&b);
     if(a>o && b>0){
         printf("True\n");
-    }
-    else{
+    } else{
         printf("False\n");
     }
-
+    return;
 }
