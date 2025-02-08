@@ -6,6 +6,6 @@ int mian(){
         printf("True");
     }
     else{
-        printf("False")
+        printf("False");
     }
 }
