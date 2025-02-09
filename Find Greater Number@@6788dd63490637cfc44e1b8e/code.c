@@ -10,6 +10,6 @@ int main(){
         printf("d",b);
     }
     else{
-        printf("%d%d"a,b)
+        printf("%d%d"a,b);
     }
 }
