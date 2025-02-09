@@ -5,6 +5,6 @@ int main(){
         printf("Even");
     }
     else{
-        ("Odd")
+        printf("Odd");
     }
 }
