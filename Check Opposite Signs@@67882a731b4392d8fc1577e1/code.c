@@ -5,6 +5,9 @@ int main(){
     if((a>b && b<a || b<a && a>b)){
         printf("True");
     }
+    else if(a==b){
+        printf("True");
+    }
     else{
         printf("False");
     }
