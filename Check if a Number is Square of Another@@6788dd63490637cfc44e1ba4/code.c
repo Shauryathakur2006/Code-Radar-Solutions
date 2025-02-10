@@ -6,7 +6,7 @@ int main(){
         printf("yes");
     }
     else{
-        print("No");
+        printf("No");
     }
 
 
