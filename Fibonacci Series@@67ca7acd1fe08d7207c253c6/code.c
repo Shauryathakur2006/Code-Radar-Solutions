@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void fibonacci(int n) {
+void fibonacciSeries(int n) {
     int first = 0, second = 1, next, i;
 
     printf("Fibonacci Series: %d, %d", first, second);
