@@ -13,18 +13,3 @@ void fibonacci(int n) {
     }
     printf("\n");
 }
-
-int main() {
-    int terms;
-    
-    printf("Enter the number of terms: ");
-    scanf("%d", &terms);
-    
-    if (terms < 2) {
-        printf("Please enter a number greater than or equal to 2.\n");
-    } else {
-        fibonacci(terms);
-    }
-    
-    return 0;
-}
