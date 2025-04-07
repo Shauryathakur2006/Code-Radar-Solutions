@@ -14,11 +14,3 @@ void fibonacciSeries(int n) {
     printf("\n");
 }
 
-int main() {
-    int terms;
-    
-    printf("Enter the number of terms: ");
-    scanf("%d", &terms);
-    
-    return 0;
-}
