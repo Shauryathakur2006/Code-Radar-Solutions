@@ -6,5 +6,4 @@ void isPrime(int n){
             break;
         }
     }
-    return flagg;
 }
